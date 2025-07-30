@@ -17,12 +17,12 @@
 ###
 <h1 align="center">Hi there, I'm Wilfredo Louis P. Sumayan 👋</h1>
 
-### Fullstack Web Developer | Flutter Enthusiast
+### Fullstack Web Developer
 
 I'm Wilfredo Louis P. Sumayan from Quezon City, Philippines. I am a passionate fullstack web developer and currently diving into the world of Flutter for Android and iOS development.
 
 - 🔭 I’m a fullstack web developer
-- 📚 I'm currently learning Flutter for Android and iOS
+- 📚 I'm currently learning Flutter for Android and iOS , Laravel 12
 - ⚡ In my free time, I watch theories about programming
 
 ### Languages and Tools:
